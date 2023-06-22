@@ -4,5 +4,5 @@
 
 ## Welcome, im JonayMr! 👋
 
-This is my take on the 1st FrontendMentor.io Challenge!
+This is my take on the QR code component Challenge!
 
