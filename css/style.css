@@ -63,3 +63,7 @@ body, html {
     width: 200px;
     font-weight: bold;
 }
+
+.attribution{
+    margin-top: 20px;
+}
